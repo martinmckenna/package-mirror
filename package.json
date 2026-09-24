@@ -30,7 +30,7 @@
     "@reach/tabs": "0.18.0",
     "@react-router/node": "8.4.0",
     "@react-router/serve": "8.4.0",
-    "axios": "1.16.0",
+    "axios": "1.18.0",
     "cookie": "0.7.0",
     "copy-to-clipboard": "3.3.3",
     "fast-equals": "4.0.1",
